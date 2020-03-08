@@ -1,6 +1,7 @@
-#Esta funcion multiplica dos numeros
-#La funcion recive dos parametros
-def multiplicar(a, b):
-	return b*a
 
+#esta funcion multiplica dos numeros
+def multiplicar(x, y):
+	z=x*y
+	return z
+#La funcion recive dos parametros
 multiplicar(3, 5)
